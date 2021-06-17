@@ -34,10 +34,19 @@ This report will display a statistical analysis of the Temperature of the island
 4. **% over 70:** At least 50% of the temperatures in the month of December were over 70 degrees Fahrenheit.
 
 ---
+## **<p align="center">Results - Key Differences</p>**
+---
+
+1. **Average Temp:** June has a higher average temperature than December
+2. **Minimum Temp:** December gets significantly colder than June (~12%).
+3. **Maximum Temp:** Maximum temperatures in both June and December are very close.
+4. **% over 70:** June has a higher % of of 70+ temperatures.
+
+---
 ## Summary
 ---
 
-The island of Oahu appears to be warm and temperate nearly year round. June, the middle of Summer, never exceeds 85 degrees Fahrenheit with at least 75% of the temperatures over 70. December, the middle of Winter, gets as hot as 83 degrees Fahrenheit with at least 50% of the temperatures over 70. This indicates that Oahu, on average, has excellent temperatures year round for an ice cream and surf shop.
+The island of Oahu appears to be warm and temperate nearly year round. June, the middle of Summer, never exceeds 85 degrees Fahrenheit with at least 75% of the temperatures over 70. December, the middle of Winter, gets as hot as 83 degrees Fahrenheit with at least 50% of the temperatures over 70. December has a higher variance in its temperatures and on average is colder, but both June and December have temperatures conducive to outdoor activities. These statistics show that Oahu, on average, has excellent temperatures year round for an ice cream and surf shop.
 
 > **Suggested Additional Analysis:** It would be helpful to know how the weather in Oahu has changed over the years in order to predict how future years will be:
 
